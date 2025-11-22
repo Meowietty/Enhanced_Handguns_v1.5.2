@@ -1,7 +1,13 @@
-# **ENHANCED HANDGUNS 1.4** DX11 ONLY!!!
-Good day stalkers. This is **Enhanced Handguns 1.4** update release. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
+# ENHANCED HANDGUNS 1.5 DX11 ONLY!!!
+
+***
+
+## This version of the addon wouldn't have been released in this form without the tremendous help from YukiZ. He ported many models to new animations and refined them to match the existing models. Thank you very much.
+
+***
 
 A big thank you to everyone who helped with this update:
+- YukiZ for animation adaptations.
 - Oleh for editing/adding new sounds and help with configs.
 - Juan and Kmack for help in creating world models
 - Alchem for **Smaller Icons Patch**
@@ -10,13 +16,91 @@ A big thank you to everyone who helped with this update:
 # INSTALLATION:
 Nothing complicated - just install and set the highest priority. This means that the addon should overwrite my other addons too.
 
+# PATCHNOTES 1.5:
+**NEW Retextures/Remodels/Reanimations for:**
+- PM Makarov 9x18 pistol.
+- PB Silenced 9x18 pistol
+- TT-33 Tokarev 7.62x25
+- MP443 Grach 9x19 pistol
+- SR1MP Gyurza 9x21 pistol
+- Levedev PL-15 pistol
+
+***
+
+## PM Makarov 9x18 pistol.
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-13-30" src="https://github.com/user-attachments/assets/223e4a17-3c1c-4d7e-b702-551627a00263" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-13-48" src="https://github.com/user-attachments/assets/63d1804f-d6ab-4d16-b7dd-06dd156669c8" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-14-12" src="https://github.com/user-attachments/assets/0d871804-6cf2-401a-ba4b-a3f5698f7679" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-18-13" src="https://github.com/user-attachments/assets/29611d86-8817-4670-ba0b-b2e31dc837df" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-19-05" src="https://github.com/user-attachments/assets/dd76e93b-193a-429b-9889-c9771090c0a8" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-19-37" src="https://github.com/user-attachments/assets/8da66f88-44bb-4827-af6a-1bd8c03827f3" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-19-54" src="https://github.com/user-attachments/assets/fdee0765-750b-4247-a6ab-769eb4ef3edc" />
+
+***
+
+## PB 9x18 silenced pistol.
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-15-15" src="https://github.com/user-attachments/assets/3c6cd0ae-9ce5-4ad6-a959-736b897ff3ce" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-16-09" src="https://github.com/user-attachments/assets/e4ceb2f3-66b0-49d6-b61b-cd48ec9f887f" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-16-49" src="https://github.com/user-attachments/assets/e3bb20aa-6170-4d08-b539-ed99b3f6bc82" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-17-19" src="https://github.com/user-attachments/assets/91ae8e3a-348f-4616-8e64-0b9b48eb509b" />
+
+***
+
+## TT-33 Tokarev 7.62x25
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-25-44" src="https://github.com/user-attachments/assets/fe6f9046-16ef-46b6-8499-bea9f61a9121" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-26-08" src="https://github.com/user-attachments/assets/804dc403-db72-4e07-9761-ae1276d4e84d" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-26-24" src="https://github.com/user-attachments/assets/75cb8b3a-f64f-471d-acf3-353b94debb96" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-26-39" src="https://github.com/user-attachments/assets/d447403c-c36f-4a47-a456-4d9213d2eb36" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-27-20" src="https://github.com/user-attachments/assets/3d309a80-80ba-4bd2-8ef6-df61535a17d6" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-27-38" src="https://github.com/user-attachments/assets/60a04a3a-1e7c-405f-ad12-2badadd6e439" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-28-31" src="https://github.com/user-attachments/assets/e1967a92-0bc1-49a3-9056-2658f91bb076" />
+
+***
+
+## MP443 Grach 9x19 pistol
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-23-31" src="https://github.com/user-attachments/assets/900fbb01-8825-433a-b962-591bec8aed83" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-23-46" src="https://github.com/user-attachments/assets/7e02916b-cbed-4114-9490-a7e867aed82d" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-24-24" src="https://github.com/user-attachments/assets/121f115b-a496-4c25-87de-cb4bcac04728" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-24-43" src="https://github.com/user-attachments/assets/243f0d16-b488-415b-9103-c5b7fd0ffade" />
+
+***
+
+## SR1MP Gyurza 9x21 pistol
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-21-08" src="https://github.com/user-attachments/assets/9375b6a2-5589-41ce-b6fc-ad1a4f84f6a5" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-21-19" src="https://github.com/user-attachments/assets/d096bd83-909e-40cc-b7c8-118db932a766" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-22-09" src="https://github.com/user-attachments/assets/429b9a7c-d173-43fd-9019-79bb764a7803" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-22-37" src="https://github.com/user-attachments/assets/7eced6db-4423-4472-ad1a-02a20fb97493" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-22-51" src="https://github.com/user-attachments/assets/8327da80-f53c-4260-9628-e393f2063106" />
+
+***
+
+## Levedev PL-15 pistol
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-29-17" src="https://github.com/user-attachments/assets/24336a4d-af62-4735-b18d-fab555c22d78" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-29-47" src="https://github.com/user-attachments/assets/cfcf2a60-120f-4732-b7e5-ec8ed0a4ca36" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-30-24" src="https://github.com/user-attachments/assets/063c5f9d-8b7c-48a5-97b1-8e52edc5a982" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-30-43" src="https://github.com/user-attachments/assets/0246c039-7500-4844-9518-a05223ada244" />
+<img width="3440" height="1440" alt="AnomalyDX11AVX 2025-11-22 19-31-35" src="https://github.com/user-attachments/assets/0638b187-2dc5-427a-95ef-ab1da868f5b5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PATCHNOTES 1.4:
 - Added new FN57, M9A3, RSh-12
 
 ***
 
 ## RSh-12 Shorty
-> - Freed 3D model by MCTav1sh with my edits. Sedzshimol animations
+> - Free 3D model by MCTav1sh with my edits. Sedzshimol animations
 > - Faster reload (20%), New sounds from Oleh
 
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-26 21-08-34" src="https://github.com/user-attachments/assets/23ee3885-b586-4996-8139-5b09a9753d32" />
@@ -52,40 +136,6 @@ Nothing complicated - just install and set the highest priority. This means that
 
 ***
 
-## PL-15 Pistol
-> - EFT model, FIREBREATH Walther P99 animations.
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-49-52" src="https://github.com/user-attachments/assets/051db04c-00e2-4518-917c-5525d78716ee" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-57-55" src="https://github.com/user-attachments/assets/04e06a20-76dc-4329-8488-798c5bc30617" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-58-48" src="https://github.com/user-attachments/assets/439955e6-7672-443e-afab-25950b01eb84" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-59-19" src="https://github.com/user-attachments/assets/886a3110-bbe9-48c6-b04d-9bde60b13839" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-59-55" src="https://github.com/user-attachments/assets/e239f2ba-30dd-4d4e-bbc5-887493e13114" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-00-09" src="https://github.com/user-attachments/assets/42eac27d-3b22-454d-a24e-1c6cc9d10648" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-00-54" src="https://github.com/user-attachments/assets/77d9a9fa-0d34-47b8-9eac-e347c4d207e3" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-01-16" src="https://github.com/user-attachments/assets/0de0a3d9-0d3c-4515-beb9-39f1072e9f95" />
-
-***
-
-## Makarov PM 9x18 and PB 9x18 silenced pistol
-> - EFT model, Default Gunslinger animations.
-> - The ability to install a **LASER SIGHT** (in the form of a *PISTOL GRIP*).
-> - New **PM Upgrade Kit** and **PB Upgrade Kit**.
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-13-39" src="https://github.com/user-attachments/assets/5990a980-91fd-4503-8ef5-fb42f554ba37" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-14-24" src="https://github.com/user-attachments/assets/3a0d6189-7f63-42f1-b0a5-49ba17d7abd6" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-15-47" src="https://github.com/user-attachments/assets/9ac96869-2a78-4df7-ab93-ca374bc53d81" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-16-16" src="https://github.com/user-attachments/assets/5e1f38c0-dc37-4beb-b43c-8ec07af89aa8" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-17-05" src="https://github.com/user-attachments/assets/6882ed10-d92a-4ae1-8f40-dbcddd3b73da" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-18-24" src="https://github.com/user-attachments/assets/e6da40e5-ea42-4026-8b17-5007402fa98d" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-18-52" src="https://github.com/user-attachments/assets/597228ba-1b70-4f20-b3fd-fe1d20acef0a" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-19-43" src="https://github.com/user-attachments/assets/696c5a62-3ecc-4001-9418-3f78b9fad191" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-19-55" src="https://github.com/user-attachments/assets/47618e5e-d595-4b8d-85aa-d9c50379cd98" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-24-13" src="https://github.com/user-attachments/assets/cb9bcfed-f823-4455-9b80-846cce32abcd" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-21-45" src="https://github.com/user-attachments/assets/5721c501-37d5-45dc-aa73-f65232af0a9a" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-21-37" src="https://github.com/user-attachments/assets/6c74ff12-68de-42b7-b68a-75d8956772a1" />
-
-***
-
 ## OTs-33 "Pernach"
 > - Improved Original Model with wooden pistol grip.
 > - New 9mm Suppressor model with thermal cover.
@@ -95,44 +145,6 @@ Nothing complicated - just install and set the highest priority. This means that
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-26-46" src="https://github.com/user-attachments/assets/ba89ab17-9f4b-4162-8893-ac1b177b1cba" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-27-44" src="https://github.com/user-attachments/assets/8ab47d05-ac56-4ebe-9c7a-7dcb4af1072d" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-28-43" src="https://github.com/user-attachments/assets/24001389-4898-4cb1-8a10-7f7488faa8fd" />
-
-***
-
-## TT-33 Tokarev
-> - EFT model, Default Gunslinger animations.
-> - A small modern interpretation of an old pistol.
-> - The ability to install a **LASER SIGHT**.
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-29-42" src="https://github.com/user-attachments/assets/27afa466-cced-4bae-8a82-31aa57755e28" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-14" src="https://github.com/user-attachments/assets/c92e8500-3e78-425c-a37e-2250e8210c97" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-39" src="https://github.com/user-attachments/assets/a7e214eb-1b84-4ed1-ba03-1e41d90b28d8" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-51" src="https://github.com/user-attachments/assets/58f466e8-f455-4473-972f-0f48b1a8ab61" />
-
-***
-
-## Serdyukov SR-1MP Gyurza 9x21
-> - EFT model, FIREBREATH M9 animations
-> - Updated all 3 variants: Base Pistol and 2 Kits from base GAMMA
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-31-43" src="https://github.com/user-attachments/assets/ffc324cc-4fc1-49ae-96ef-c075f1227580" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-32-51" src="https://github.com/user-attachments/assets/345560f3-245a-47a8-b68c-902bccf4456d" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-33-35" src="https://github.com/user-attachments/assets/5dbec9fa-7a11-4c31-b44c-8d87fa199ff3" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-33-48" src="https://github.com/user-attachments/assets/c8ea6b56-95f2-4490-af00-3bf5d9a652ed" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-34-23" src="https://github.com/user-attachments/assets/f5bdce82-853e-453f-bccf-e8e4da9ffe8e" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-34-46" src="https://github.com/user-attachments/assets/af15680b-6e32-4478-8e38-697b3b1478e2" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-35-05" src="https://github.com/user-attachments/assets/93ee5873-3bfe-479d-9ab6-50e3871ecc81" />
-
-***
-
-## MP-433 "Grach"
-> - New model, Default Gunslinger animations.
-> - The ability to install a **LASER SIGHT**.
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-35-40" src="https://github.com/user-attachments/assets/d551bf37-0dc4-4018-b7cd-7ac3149a5621" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-35-57" src="https://github.com/user-attachments/assets/a55640d6-ca0b-4ad4-97f4-9abeeb1255c7" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-36-22" src="https://github.com/user-attachments/assets/1811f708-3479-4e59-b90b-ea494a1836b9" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-36-45" src="https://github.com/user-attachments/assets/8c106b44-95b2-4127-a11f-62be923fc86b" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-37-27" src="https://github.com/user-attachments/assets/559fa856-94b4-4ef5-830a-045c055380ba" />
 
 ***
 
